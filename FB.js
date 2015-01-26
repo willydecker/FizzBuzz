@@ -1,3 +1,10 @@
+//William Decker
+//Jan 26 2015
+//chap 2
+//FIZZBUZZ
+
+
+
 //first code
 	/*for (var i = 0; i < 100; i++) 
 		if (i%3 == 0)
