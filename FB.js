@@ -1,7 +1,7 @@
 //William Decker
 //Jan 26 2015
 //chap 2
-//FIZZBUZZ
+//prints FIZZ or BUZZ if % by 3 or 5
 
 
 
